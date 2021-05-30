@@ -15,3 +15,5 @@ Prerequisites:
 * <a target="_blank" href="https://lokeshdhakar.com/projects/lightbox2/">Lightbox</a>
 
 <img src="https://github.com/anonik9900/Messina-Template/blob/main/media/Immagine.jpg?raw=true">
+
+<img src="https://i.imgur.com/iLmqsc0.jpg">
